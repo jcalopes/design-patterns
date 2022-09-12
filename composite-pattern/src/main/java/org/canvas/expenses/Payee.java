@@ -1,4 +1,4 @@
-package org.example.expenses;
+package org.canvas.expenses;
 
 public interface Payee {
     void payExpenses(int amount);

@@ -1,9 +1,9 @@
-package org.example;
+package org.canvas;
 
-import org.example.expenses.Manager;
-import org.example.expenses.Payee;
-import org.example.expenses.SalesPerson;
-import org.example.expenses.SalesTeam;
+import org.canvas.expenses.Payee;
+import org.canvas.expenses.SalesTeam;
+import org.canvas.expenses.Manager;
+import org.canvas.expenses.SalesPerson;
 
 /**
  * Hello world!
@@ -27,7 +27,7 @@ public class CompositeDemo
         payPayee(team, 100);
     }
 
-    private static void payPayee(Payee payee,int amount){
+    private static void payPayee(Payee payee, int amount){
         System.out.println("Expenses have been requested!");
         payee.payExpenses(amount);
         System.out.println("Expenses have been paid!");

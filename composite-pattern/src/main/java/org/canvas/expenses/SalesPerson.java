@@ -1,9 +1,9 @@
-package org.example.expenses;
+package org.canvas.expenses;
 
-public class Manager implements Payee{
+public class SalesPerson implements Payee{
     String name;
 
-    public Manager(String name) {
+    public SalesPerson(String name) {
         this.name = name;
     }
 

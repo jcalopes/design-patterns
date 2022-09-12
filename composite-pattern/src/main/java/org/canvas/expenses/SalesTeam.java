@@ -1,8 +1,12 @@
-package org.example.expenses;
+package org.canvas.expenses;
 
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * In composite pattern we want to treat the single and multiple object in the same way. So you will end up with a tree
+ * structure.
+ */
 public class SalesTeam implements Payee{
     private List<Payee> payees = new ArrayList<>();
 
