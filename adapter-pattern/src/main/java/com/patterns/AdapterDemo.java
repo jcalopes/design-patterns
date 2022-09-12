@@ -29,7 +29,7 @@ public class AdapterDemo
      * its implementations such as TruckPriceCalculator and CarPriceCalculator. However, I want to calculate the price
      * of UK car and for this I have available one dependency that makes this calculus for me, but I can use its class because
      * it's not allowed here. So this when adapter comes in to the picture. So as you can see I am able to use this method along with
-     * UKCarPriceCalculator by creating an adapter as you can see in lines 19,20,24.
+     * UKCarPriceCalculator by creating an adapter(lines 19,20,24).
      * @param priceCalculator
      * @return Price Vehicle.
      */
