@@ -16,6 +16,8 @@
         <module>facade-pattern</module>
         <module>flyweight-pattern</module>
         <module>proxy-pattern</module>
+        <module>observer-test</module>
+        <module>chain-of-responsability-pattern</module>
     </modules>
 
     <properties>
