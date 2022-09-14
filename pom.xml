@@ -18,6 +18,7 @@
         <module>proxy-pattern</module>
         <module>observer-test</module>
         <module>chain-of-responsability-pattern</module>
+        <module>command-pattern</module>
     </modules>
 
     <properties>
