@@ -19,6 +19,7 @@
         <module>observer-test</module>
         <module>chain-of-responsability-pattern</module>
         <module>command-pattern</module>
+        <module>iterator-pattern</module>
     </modules>
 
     <properties>

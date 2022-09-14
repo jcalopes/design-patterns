@@ -1,7 +1,8 @@
 package org.sales;
 
-import org.sales.command.PlaceOrderCommand;
-import org.sales.command.ReturnOrderCommand;
+import org.sales.commands.PlaceOrderCommand;
+import org.sales.commands.ReturnOrderCommand;
+import org.sales.order.OrderHandler;
 
 public class SalesOrderClient {
 

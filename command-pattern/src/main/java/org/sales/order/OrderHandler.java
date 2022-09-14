@@ -1,6 +1,6 @@
-package org.sales;
+package org.sales.order;
 
-import org.sales.command.Command;
+import org.sales.commands.Command;
 
 public class OrderHandler {
 

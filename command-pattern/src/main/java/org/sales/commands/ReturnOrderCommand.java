@@ -1,4 +1,4 @@
-package org.sales.command;
+package org.sales.commands;
 
 import org.sales.Jacket;
 
